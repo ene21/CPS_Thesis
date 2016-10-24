@@ -11,7 +11,7 @@ Here are some details starting with the most important:
   - readingHTTP.m           code used for testing of unsecure communication from Server to MATLAB
   - raspberrypi.crt         the certificate used to allow MATLAB to access the secure server.
   
--  The directory of initialTestbed holds the first fully function code of the system. This however implemented a different communication protocol
+-  In the main directory some files were used in the initial testbed
   - DEVICE_PI_ARDUINO.m     code that was initially used, in which MATLAB was communicating to the Pi via a Secure Shell.
   
 - The tmpLCD directory holds the code for the Arduino MEGA 2560 that was implemented at a later date
